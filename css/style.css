@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+.przycisk { cursor:pointer;}
+.boxlogowanie {background:#fbfbfb; border:1px solid #e7e7e7; width:300px; text-align:center; margin:150px auto 0;}
+.boxlogowanie .logo {margin-top:30px;}
+.formularz {margin: 35px auto;width: 243px;}
+.login {background: none repeat scroll 0 0 #F4F4F4;border: 1px solid #DEDEDE;color: #888888;float: left;font-family: Tahoma;font-size: 14px;height: 20px;padding: 10px;  width: 48px;}
+.logininput {background:none; border-color: #DEDEDE; border-style: solid solid solid none; border-width: 1px 1px 1px 0; height:38px; float:left;width: 152px;padding-left: 10px;color: #888888;padding-right: 10px;font-family: Tahoma;font-size: 14px;}
+.hasloinput {background:none; border-color: #DEDEDE; border-style: solid solid solid none; border-width: 1px 1px 1px 0; height:38px; float:left; margin:10px 0;width: 152px;padding-left: 10px;color: #888888;padding-right: 10px;font-family: Tahoma;
+    font-size: 14px;}
+.haslo {background: none repeat scroll 0 0 #F4F4F4;border: 1px solid #DEDEDE;color: #888888;float: left;font-family: Tahoma;font-size: 14px;height: 20px;padding: 10px;margin: 10px 0;width: 48px;}
+.logujinput {width: 243px;background:#f4f4f4; border:1px solid #dedede; color:#888888;font-family: Tahoma;margin: 0 0 10px;height: 40px;padding-bottom: 5px;font-size: 14px;}
+
+.obramowanie {border-color: #DEDEDE; -moz-use-text-color #DEDEDE #DEDEDE;
+    border-style: solid none solid solid;
+    border-width: 1px 0 1px 1px;
+	float:left;}
+	
+.select {overflow: hidden; padding:1px;
+border:1px solid #DEDEDE;
+   background: url(images/strzalka.png) no-repeat scroll right center #FBFBFB;width:120px; height:20px;}
+#wybor { background:none repeat scroll 0 0 transparent; border:none; color:#999999; width:140px;}  
+
+.select2 {overflow: hidden;padding:1px;
+border:1px solid #DEDEDE;
+   background: url(images/strzalka.png) no-repeat scroll right center #FBFBFB;width:60px; height:20px;}
+#wybor2 { background:none repeat scroll 0 0 transparent; border:none; color:#999999; width:80px;}   
+
+.tabelka-dodaj td { padding:3px;color: #999999;
+    font-family: Arial;
+    font-size: 10px;}
+/*.tabela-wynik th {border:1px solid #dedede;}*/
+
+
+.tabela-wynik tbody tr {border:1px solid #eaeaea; background:#f8f8f8; height:40px; font-family:Arial; font-size:14px; color:#999;}
+
+.tabela-wynik tbody tr:hover {border:1px solid #eaeaea; background:#f3f3f3; height:40px; font-family:Arial; font-size:14px; color:#999;}
+
+
+.tabela-wynik tbody #edit {border:1px solid #eaeaea; background:#f8f8f8; height:40px; font-family:Arial; font-size:14px; color:#999;}
+
+.tabela-wynik tbody #edit:hover {border:1px solid #eaeaea; background:#f8f8f8; height:40px; font-family:Arial; font-size:14px; color:#999;}
+
+
+.tabela-wynik tbody #edit tr {border:1px solid #eaeaea; background:#f8f8f8; height:40px; font-family:Arial; font-size:14px; color:#999;}
+
+.tabela-wynik tbody #edit tr:hover {border:1px solid #eaeaea; background:#f8f8f8; height:40px; font-family:Arial; font-size:14px; color:#999;}
