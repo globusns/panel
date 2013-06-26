@@ -9,14 +9,7 @@
 class Controller {
     
     public function __construct() {
-         if(isset($_GET['action'][0])){
-             switch ($_GET['action']){
-                 case 'logout':
-                     $this->logOut();
-                     break;
-                 
-             }
-         }
+         
     }
     
     public function isLoggedIn(){
